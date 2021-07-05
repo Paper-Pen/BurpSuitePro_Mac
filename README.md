@@ -8,7 +8,7 @@ Java环境：Java9+<br>
 下载地址：<br>
 https://portswigger.net/burp/releases#professional
 
-![图片](https://user-images.githubusercontent.com/46148480/115981866-8d25b400-a5c9-11eb-981f-8f1cbbaf9d10.png)
+<img width="1439" alt="图片" src="https://user-images.githubusercontent.com/46148480/124447715-394afe80-ddb4-11eb-808c-61f3a7ec667c.png">
 
 下载后双击进行安装<br>
 

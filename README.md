@@ -1,14 +1,12 @@
 # BurpSuitePro_Mac
-Mac最新版BurpSuite
+Mac——BurpSuite Pro4.2破解版
 
 ## 🏝 前提
 Java环境：Java9+<br>
 
 ## 🏝 下载最新版
 下载地址：<br>
-https://portswigger.net/burp/releases#professional
-
-<img width="1439" alt="图片" src="https://user-images.githubusercontent.com/46148480/124447715-394afe80-ddb4-11eb-808c-61f3a7ec667c.png">
+https://portswigger.net/burp/releases/professional-community-2021-4-2?requestededition=professional
 
 下载后双击进行安装<br>
 
